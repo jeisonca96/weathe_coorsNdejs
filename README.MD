@@ -1,1 +1,3 @@
 ## APLICACIÓN PARA OBTENER COORDENADAS Y CLIMA DE UN LUGAR
+
+- Ejecutar: npm install
